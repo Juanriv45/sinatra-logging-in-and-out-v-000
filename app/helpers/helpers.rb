@@ -1,6 +1,7 @@
 class Helpers
 
-  def current_user
+  def self.current_user(session_hash)
+    
 
   end
 
